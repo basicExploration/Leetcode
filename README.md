@@ -5,7 +5,7 @@ All leetcode questions that solved in different methods.
 |question number|URL|result|
 |:---:|:---:|:---:|
 |[1](./1.md)|[Two Sum](https://leetcode-cn.com/problems/two-sum/)|x|
-|[2](./2.md)|[Two Sum](https://leetcode-cn.com/problems/two-sum/)|x|
+|[2](./2.md)|[Add Two Numbers](https://leetcode-cn.com/problems/add-two-numbers)|x|
 |[3](./3.md)|[Two Sum](https://leetcode-cn.com/problems/two-sum/)|x|
 |[4](./4.md)|[Two Sum](https://leetcode-cn.com/problems/two-sum/)|x|
 |[5](./5.md)|[Two Sum](https://leetcode-cn.com/problems/two-sum/)|x|
