@@ -11,7 +11,7 @@ All leetcode questions that solved in different methods.
 |[283](./283.md)|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/description/)|array|👌|
 |[287](./287.md)|[Find the Duplicate Number](https://leetcode-cn.com/problems/find-the-duplicate-number/description/)|array|👌|
 |[378](./378.md)|[Kth Smallest Element in a Sorted Matrix](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/description/)|array|👌|
-|[409](./409.md)|[Longest Palindrome](https://leetcode-cn.com/problems/longest-palindrome/description/)|string|😯|
+|[409](./409.md)|[Longest Palindrome](https://leetcode-cn.com/problems/longest-palindrome/description/)|string|👌|
 |[485](./485.md)|[Max Consecutive Ones](https://leetcode-cn.com/problems/max-consecutive-ones/description/)|array|👌|
 |[565](./565.md)|[Array Nesting](https://leetcode-cn.com/problems/array-nesting/description/)|array|👌|
 |[645](./645.md)|[Set Mismatch](https://leetcode-cn.com/problems/set-mismatch/description/)|array|👌|
