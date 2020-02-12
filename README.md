@@ -5,7 +5,7 @@ All leetcode questions that solved in different methods.
 |question number|URL|type|result|
 |:---:|:---:|:---:|:---:|
 |[9](./9.md)|[Palindrome Number](https://leetcode-cn.com/problems/palindrome-number/description/)|string|😯|
-|[205](./205.md)|[Isomorphic Strings](https://leetcode-cn.com/problems/isomorphic-strings/description/)|string|😯|
+|[205](./205.md)|[Isomorphic Strings](https://leetcode-cn.com/problems/isomorphic-strings/description/)|string|👌|
 |[240](./240.md)|[Search a 2D Matrix II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/description/)|array|👌|
 |[242](./242.md)|[Valid Anagram](https://leetcode-cn.com/problems/valid-anagram/description/)|string|👌|
 |[283](./283.md)|[Move Zeroes](https://leetcode-cn.com/problems/move-zeroes/description/)|array|👌|
